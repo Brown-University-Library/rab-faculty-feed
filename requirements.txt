@@ -4,6 +4,6 @@ idna==2.7
 isodate==0.6.0
 pyparsing==2.2.2
 rdflib==4.2.2
-requests==2.20.0
+requests==2.31.0
 six==1.11.0
 urllib3==1.24
